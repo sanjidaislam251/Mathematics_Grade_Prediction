@@ -1,1 +1,3 @@
 # Mathematics_Grade_Prediction
+This project aims to predict the grades students will achieve using a Linear Model. The datasets used for this project is from the UCI Machine Learning Repository. The dataset and information about the attributes of this dataset can be found at https://archive.ics.uci.edu/ml/datasets/student+performance.
+The data is on the grades achieved in mathematics by secondary school students in Portugal. The data attributes include student grades, demographic, social and school-related features. The attribute G3 is the final year grade (issued at the 3rd period), while G1 and G2 correspond to the 1st and 2nd period grades.
